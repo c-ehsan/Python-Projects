@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Joke Generator</title>
+
+    <link rel="stylesheet"
+          href="{{ url_for('static', filename='style.css') }}">
+</head>
+
+<body>
+
+    <div class="container">
+
+        <h1>😂 Joke Generator</h1>
+
+        <p class="subtitle">
+            Choose the type of joke you want
+        </p>
+
+        <div class="buttons">
+
+            <button id="programmingButton">
+                💻 Programming Joke
+            </button>
+
+            <button id="persianButton">
+                🇮🇷  Programming Persian Joke
+            </button>
+
+
+            <button id="RandomButton">
+               😂  Random Joke
+            </button>
+        </div>
+
+        <div id="jokeContainer" class="joke-card">
+
+            <p class="placeholder">
+                Choose a category to get a joke...
+            </p>
+
+        </div>
+
+    </div>
+
+    <script src="{{ url_for('static', filename='script.js') }}"></script>
+
+</body>
+
+</html>
