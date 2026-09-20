@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "category": "programming",
+    "joke": "Why do programmers prefer dark mode?",
+    "answer": "Because light attracts bugs!"
+  },
+  {
+    "id": 2,
+    "category": "programming",
+    "joke": "Why did the programmer quit his job?",
+    "answer": "Because he didn't get arrays."
+  },
+  {
+    "id": 3,
+    "category": "programming",
+    "joke": "What do you call a programmer from Finland?",
+    "answer": "Nerdic."
+  },
+  {
+    "id": 4,
+    "category": "programming",
+    "joke": "Why was the Python programmer confused?",
+    "answer": "Because he couldn't find the right indentation."
+  },
+  {
+    "id": 5,
+    "category": "general",
+    "joke": "Why don't scientists trust atoms?",
+    "answer": "Because they make up everything!"
+  },
+  {
+    "id": 6,
+    "category": "general",
+    "joke": "Why did the bicycle fall over?",
+    "answer": "Because it was two-tired."
+  },
+  {
+    "id": 7,
+    "category": "general",
+    "joke": "What do you call cheese that isn't yours?",
+    "answer": "Nacho cheese."
+  },
+  {
+    "id": 8,
+    "category": "general",
+    "joke": "Why did the computer go to the doctor?",
+    "answer": "Because it had a virus."
+  }
+]
